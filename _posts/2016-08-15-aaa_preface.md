@@ -7,9 +7,9 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: aaa_preface
 month: 0
-firstpage: 0
-lastpage: 0
-page: 0-0
+firstpage: i
+lastpage: iv
+page: i-iv
 sections: 
 author:
 - given: Alessandro
