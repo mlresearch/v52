@@ -1,0 +1,54 @@
+---
+booktitle: Proceedings of the Eighth International Conference on Probabilistic Graphical
+  Models
+shortname: PGM 2016
+year: '2016'
+published: 2016-08-15
+start: 2016-09-06
+end: 2016-09-09
+volume: 52
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: pgm2016
+month: 0
+abstract: ''
+editor:
+- given: Alessandro
+  family: Antonucci
+- given: Giorgio
+  family: Corani
+- given: Cassio Polpo
+  family: Campos}
+title: Proceedings of the Eighth International Conference on Probabilistic Graphical
+  Models
+email: ''
+description: Proceedings of the Eighth International Conference on Probabilistic Graphical
+  Models, Lugano, Switzerland
+url: http://proceedings.mlr.press
+baseurl: "/v52"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v52
+conference:
+  name: Conference on Probabilistic Graphical Models
+  url: http://www2.idsia.ch/cms/pgm/
+  location: Lugano, Switzerland
+  dates:
+  - 2016-09-06
+  - 2016-09-07
+  - 2016-09-08
+  - 2016-09-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v52.bib
