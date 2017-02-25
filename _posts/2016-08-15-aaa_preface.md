@@ -7,6 +7,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: aaa_preface
 month: 0
+tex_title: Proceedings of the Eighth International Conference on Probabilistic Graphical
+  Models
 firstpage: i
 lastpage: iv
 page: i-iv

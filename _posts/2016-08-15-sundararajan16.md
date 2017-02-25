@@ -1,5 +1,5 @@
 ---
-title: A Genetic Algorithm for Learning Parameters in {B}ayesian Networks using Expectation
+title: A Genetic Algorithm for Learning Parameters in Bayesian Networks using Expectation
   Maximization
 abstract: Expectation maximization (EM) is a popular algorithm for parameter estimation
   in situations with incomplete data. The EM algorithm has, despite its popularity,
@@ -19,6 +19,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sundararajan16
 month: 0
+tex_title: A Genetic Algorithm for Learning Parameters in {B}ayesian Networks using
+  Expectation Maximization
 firstpage: 511
 lastpage: 522
 page: 511-522

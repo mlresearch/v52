@@ -17,6 +17,8 @@ series: Proceedings of Machine Learning Research
 id: pgm2016
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Alessandro
   family: Antonucci
@@ -24,7 +26,6 @@ editor:
   family: Corani
 - given: Cassio Polpo
   family: Campos}
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eighth International Conference on Probabilistic Graphical Models
     Held in Lugano, Switzerland on 6-09 September 2016
