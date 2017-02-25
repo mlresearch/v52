@@ -28,7 +28,7 @@ editor:
   family: Campos}
 description: |
   Proceedings of the Eighth International Conference on Probabilistic Graphical Models
-    Held in Lugano, Switzerland on 6-09 September 2016
+    Held in Lugano, Switzerland on 06-09 September 2016
 
   Published as Volume 52 by the Proceedings of Machine Learning Research on 15 August 2016.
 
@@ -40,7 +40,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
-date_str: 6--09 Sep
+date_str: 06--09 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v52"
 twitter_username: mlresearch
