@@ -40,6 +40,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
+date_str: 6--09 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v52"
 twitter_username: mlresearch
@@ -49,6 +50,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v52
+bibtex_copy: true
 email: ''
 conference:
   name: Conference on Probabilistic Graphical Models
