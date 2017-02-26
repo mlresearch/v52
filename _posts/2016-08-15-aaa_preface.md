@@ -12,7 +12,8 @@ tex_title: Proceedings of the Eighth International Conference on Probabilistic G
 firstpage: i
 lastpage: iv
 page: i-iv
-sections: 
+order: 0
+cycles: false
 author:
 - given: Alessandro
   family: Antonucci

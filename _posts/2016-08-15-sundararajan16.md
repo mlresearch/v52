@@ -24,7 +24,8 @@ tex_title: A Genetic Algorithm for Learning Parameters in {B}ayesian Networks us
 firstpage: 511
 lastpage: 522
 page: 511-522
-sections: 
+order: 511
+cycles: false
 author:
 - given: Priya Krishnan
   family: Sundararajan
