@@ -16,9 +16,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: pgm2016
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Alessandro
@@ -27,6 +24,7 @@ editor:
   family: Corani
 - given: Cassio Polpo
   family: Campos}
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eighth International Conference on Probabilistic Graphical Models
     Held in Lugano, Switzerland on 06-09 September 2016
@@ -44,7 +42,7 @@ description: |
 date_str: 06--09 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v52"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -56,6 +54,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -72,3 +71,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v52.bib
+---
