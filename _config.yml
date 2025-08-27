@@ -26,7 +26,7 @@ editor:
 - given: Giorgio
   family: Corani
 - given: Cassio Polpo
-  family: Campos}
+  family: Campos
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eighth International Conference on Probabilistic Graphical Models
@@ -37,7 +37,7 @@ description: |
   Volume Edited by:
     Alessandro Antonucci
     Giorgio Corani
-    Cassio Polpo Campos}
+    Cassio Polpo Campos
 
   Series Editors:
     Neil D. Lawrence
